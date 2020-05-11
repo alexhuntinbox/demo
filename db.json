@@ -4,15 +4,7 @@
     "Surname":"Doe",
     "Branch": "Auckland",
     "City": "Auckland",
-    "Country": "New Zealand",
-    "CompanyName": "Hurricane Inc",
-    "Email" :"Bob@gmail.com",
-    "employeeId":123,
-    "ExstentionNumber": "824",
-    "LoginScript" : "filepath",
-    "Manager" :"Big Dave",
-    "Mobile": "0211234567",
-    "OrgDepartmentName":"Admin"
+    "Country": "New Zealand"
 
 
 }
