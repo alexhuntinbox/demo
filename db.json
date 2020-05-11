@@ -1,9 +1,9 @@
-{
+m{
   "posts": [
     {
       "id": 1,
-      "Firstname": "alex",
-      "Surname": "Hunt"
+      "OrgDepartmentName": "alex",
+      "Branch": "Hunt"
     },
     {
       "id": 2,
