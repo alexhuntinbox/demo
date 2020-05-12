@@ -1,19 +1,19 @@
 {
   "posts": [
     {
-      "id": 1,
+      "user": "alex.hunt",
       "OrgDepartmentName": "sales",
       "Branch": "Wellington"
     },
     {
-      "id": 2,
-      "Firstname": "bob",
-      "Surname": "Marley"
+      "user": "bob.marley",
+      "OrgDepartmentName": "admin",
+      "Branch": "Christchurch"
     },
     {
-      "id": 3,
-     "Firstname": "harry",
-      "Surname": "wilson"
+      "user": "james.brow",
+      "OrgDepartmentName": "services",
+      "Branch": "Auckland"
     }
   ],
   "comments": [
