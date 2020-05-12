@@ -5,16 +5,7 @@
       "OrgDepartmentName": "sales",
       "Branch": "Wellington"
     },
-    {
-      "user": "bob.marley",
-      "OrgDepartmentName": "admin",
-      "Branch": "Christchurch"
-    },
-    {
-      "user": "james.brow",
-      "OrgDepartmentName": "services",
-      "Branch": "Auckland"
-    }
+    
   ],
   "comments": [
     {
